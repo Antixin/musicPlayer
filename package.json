@@ -1,0 +1,19 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "node版本的音乐播放器",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.25",
+    "npm": "^3.10.3",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "anti",
+  "license": "ISC"
+}
